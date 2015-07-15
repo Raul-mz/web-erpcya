@@ -1,4 +1,4 @@
-a:4:{s:4:"root";s:73:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/bootstrap.less";s:8:"compiled";s:27509:".clearfix {
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"output";s:0:"";s:6:"result";s:27508:".clearfix {
   *zoom: 1;
 }
 .clearfix:before,
@@ -1112,5 +1112,4 @@ legend + .control-group {
     left: 10px;
     right: 10px;
   }
-}
-";s:5:"files";a:8:{s:73:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/bootstrap.less";i:1425282940;s:73:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/variables.less";i:1425282940;s:70:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/mixins.less";i:1425282940;s:68:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/grid.less";i:1425282940;s:69:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/forms.less";i:1425294878;s:69:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/wells.less";i:1425282940;s:73:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/accordion.less";i:1425282940;s:91:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/responsive-767px-max.joomla.less";i:1425282940;}s:7:"updated";i:1436891843;}
+}";}

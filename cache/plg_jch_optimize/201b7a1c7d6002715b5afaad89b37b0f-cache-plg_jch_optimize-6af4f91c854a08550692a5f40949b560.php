@@ -1,4 +1,4 @@
-.form-control {
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"output";s:0:"";s:6:"result";s:41490:".form-control {
   display: block;
   height: 34px;
   padding: 6px 12px;
@@ -43,8 +43,8 @@ textarea.form-control {
 }
 @font-face {
   font-family: 'IcoMoon';
-  src: url('../fonts/IcoMoon.eot');
-  src: url('../fonts/IcoMoon.eot?#iefix') format('embedded-opentype'), url('../fonts/IcoMoon.woff') format('woff'), url('../fonts/IcoMoon.ttf') format('truetype'), url('../fonts/IcoMoon.svg#IcoMoon') format('svg');
+  src: url(/site/templates/shaper_helix3/fonts/IcoMoon.eot);
+  src: url(/site/templates/shaper_helix3/fonts/IcoMoon.eot) format('embedded-opentype'), url(/site/templates/shaper_helix3/fonts/IcoMoon.woff) format('woff'), url(/site/templates/shaper_helix3/fonts/IcoMoon.ttf) format('truetype'), url(/site/templates/shaper_helix3/fonts/IcoMoon.svg) format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -1928,7 +1928,7 @@ article.item {
   width: 130px;
   height: 40px;
   text-indent: -9999px;
-  background: url(../images/helix-logo-white.png) no-repeat 0 0;
+  background: url(/site/templates/shaper_helix3/images/helix-logo-white.png) no-repeat 0 0;
 }
 #sp-footer-wrapper .copyright {
   display: block;
@@ -2081,4 +2081,4 @@ table.category tbody >tr td {
   color: #fff;
   -webkit-transition: 300ms;
   transition: 300ms;
-}
+}";}

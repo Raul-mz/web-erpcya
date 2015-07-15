@@ -1,4 +1,4 @@
-a:4:{s:4:"root";s:64:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/presets.less";s:8:"compiled";s:2159:"a {
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"output";s:0:"";s:6:"result";s:2158:"a {
   color: #1f1f1f;
 }
 a:hover {
@@ -109,5 +109,4 @@ blockquote {
 .pagination>.active>span:focus {
   border-color: #1f1f1f;
   background-color: #1f1f1f;
-}
-";s:5:"files";a:15:{s:73:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/bootstrap.less";i:1425282940;s:73:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/variables.less";i:1425282940;s:70:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/mixins.less";i:1425282940;s:68:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/grid.less";i:1425282940;s:69:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/forms.less";i:1425294878;s:69:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/wells.less";i:1425282940;s:73:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/accordion.less";i:1425282940;s:91:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/legacy/responsive-767px-max.joomla.less";i:1425282940;s:63:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/master.less";i:1425282940;s:66:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/variables.less";i:1425282940;s:63:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/mixins.less";i:1425291844;s:64:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/icomoon.less";i:1425282940;s:61:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/menu.less";i:1425379304;s:62:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/theme.less";i:1425389258;s:64:"/opt/lampp/htdocs/site/templates/shaper_helix3/less/presets.less";i:1425387846;}s:7:"updated";i:1436891843;}
+}";}
